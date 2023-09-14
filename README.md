@@ -10,7 +10,7 @@
 
 ## 💻 Projeto
 
-challenge-ignite-nodejs-01-fundamentos-nodejs
+desafio-ignite-nodejs-01-fundamentos-nodejs
 
 ## 📝 Licença
 
