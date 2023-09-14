@@ -9,7 +9,7 @@ const csvParse = parse({
   delimiter: ',',
   skipEmptyLines: true,
   fromLine: 2 // skip the header line
-});
+}); 
 
 async function run() {
   const linesParse = stream.pipe(csvParse);
